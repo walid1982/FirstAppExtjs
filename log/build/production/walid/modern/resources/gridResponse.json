@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "dataAndMetaData": {
+        "columns": [{
+            "text": "Name",
+            "dataIndex": "name"
+        }, {
+            "text": "Email",
+            "dataIndex": "email",
+            "flex": "1"
+        }, {
+            "text": "Phone",
+            "dataIndex": "phone",
+            "flex": "1"
+        }],
+        "records": [{
+                "name": "Jean luc",
+                "email": "jeanluc@gmail.com",
+                "phone": "555-444-111"
+            }, {
+                "name": "Marie luc",
+                "email": "marieluc@gmail.com",
+                "phone": "555-444-111"
+            }, {
+                "name": "Alex luc",
+                "email": "alexluc@gmail.com",
+                "phone": "555-444-111"
+            }
+
+        ]
+    }
+}
